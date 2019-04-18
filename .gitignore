@@ -1,0 +1,7 @@
+#Arquivos para não subir
+*.log
+*.pyc
+*.xml
+*.pdf
+*.LOG 
+*.XML
