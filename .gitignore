@@ -5,3 +5,10 @@
 *.pdf
 *.LOG 
 *.XML
+*.csv
+*.xls
+*.xlsx
+*.XLSX
+
+#Ignorar os arquivos git de dentro de cada projeto
+/.git
