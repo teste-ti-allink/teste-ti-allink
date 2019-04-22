@@ -9,6 +9,8 @@
 *.xls
 *.xlsx
 *.XLSX
+*.txt
+*.TXT
 
 #Ignorar os arquivos git de dentro de cada projeto
 /.git
